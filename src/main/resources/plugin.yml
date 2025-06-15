@@ -1,0 +1,10 @@
+name: WGEF2
+version: 1.0.0
+main: us.edumc.WGEF2.WGEF2Plugin
+api-version: 1.16
+depend: [WorldGuard]
+softdepend: [ProtocolLib, PlaceholderAPI]
+commands:
+  wgef2:
+    description: Comando principal de WGEF2
+    usage: /wgef2 reload

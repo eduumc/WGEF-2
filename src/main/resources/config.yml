@@ -1,0 +1,14 @@
+# Configuración de WGEF2
+flags:
+  enabled:
+    - no-elytra
+    - anti-enderman-grief
+    - block-piston-transloc
+
+# Actualizaciones automáticas
+auto-update: true
+
+# Mensajes
+messages:
+  no-permission: "&cNo tienes permiso para hacer esto!"
+  flag-denied: "&cAcción denegada en esta área"
